@@ -6,5 +6,5 @@
 
 Para executar esse projeto em sua máquina, por favor digite:
 ...
-npm run test:regressdash
+node app.js
 ...
